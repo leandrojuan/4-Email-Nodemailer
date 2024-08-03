@@ -1,8 +1,8 @@
 const nodemailer = require("nodemailer");
 // import nodemailer from "nodemailer";
 
-const userGmail = "leandrojuan88@gmail.com";
-const passAppGmail = "zcdu ywny dfyi kthq";
+const userGmail = "leandro@gmail.com";
+const passAppGmail = "dfgszgdsfgdsfg";
 
 // Set up Nodemailer transporter
 const transporter = nodemailer.createTransport({
